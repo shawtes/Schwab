@@ -1,0 +1,14 @@
+.dashboard {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.positive {
+  color: #4caf50;
+}
+
+.negative {
+  color: #f44336;
+}
+
+
